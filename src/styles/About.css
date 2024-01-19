@@ -1,0 +1,15 @@
+#contact-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50%;
+
+}
+
+#contact-section a {
+    color: #6696ff;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
